@@ -1,0 +1,8 @@
+#wpadminbar #wp-admin-bar-wp-logo>.ab-item .ab-icon:before {
+    content: "";
+    top: 2px;
+    background: url('images/dn.png');
+    width: 20px;
+    height: 20px;
+    display: block;
+}
